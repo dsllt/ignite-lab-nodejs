@@ -1,6 +1,6 @@
 # IgniteLab Node.js
 Aplicativo desenvolvido durante o evento Ignite Lab Node.js da Rocketseat. <br>
-O obejtivo era desenvolver um microserviço de notificações com Node.js utilizando o framweork NestJS.<br>
+O objetivo era desenvolver um microsserviço de notificações com Node.js utilizando o framweork NestJS.<br>
 Além disso, foram criados testes automatizados utilizando um banco de dados em memória.
 
 
